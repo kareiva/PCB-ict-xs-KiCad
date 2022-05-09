@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ict_v361-xs-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/ict_v361-xs-eagle-import.kicad_sym")(options "")(descr ""))
+)
